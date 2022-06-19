@@ -39,7 +39,8 @@
 #### (如成品圖示 : 左1紅燈為距離感測警示燈，左2紅燈為溫度感測「生長停止」，左3黃燈為溫度感測「生長緩慢」，左4綠燈為溫度感測「最適生長溫度」)
 
 ## 8. 實際偵測頁面
-![image](https://user-images.githubusercontent.com/101661953/174478456-81565eda-2dcc-4ff2-98ab-fee3932cc8a7.png)
+![image](https://user-images.githubusercontent.com/101661953/174478823-436a9909-281f-40c8-b636-27b67214d86e.png)
+![image](https://user-images.githubusercontent.com/101661953/174478874-f5d7e85e-1a26-47cc-bee4-4940175d96ab.png)
 
 
 
