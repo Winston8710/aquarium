@@ -22,9 +22,9 @@
 ![image](https://user-images.githubusercontent.com/101661953/174477900-26be856b-fab8-4412-a9a1-b1daeae1fccd.png)
 
 ## 6. 系統架構
-- 1.	資料庫端：MySQL
-- 2.	伺服器 : XAMPP、Apache
-- 3.	智慧水族箱架構：
--溫溼度感測器
--超音波感測器
--LED (紅*2、黃*1、綠*1 ) : 因為沒藍燈，以第二顆紅燈代替。
+- 資料庫端：MySQL
+- 伺服器 : XAMPP、Apache
+- 智慧水族箱架構：
+  -溫溼度感測器
+  -超音波感測器
+  -LED (紅*2、黃*1、綠*1 ) : 因為沒藍燈，以第二顆紅燈代替。
