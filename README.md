@@ -30,10 +30,8 @@
   *LED (紅*2、黃*1、綠*1 ) : 因為沒藍燈，以第二顆紅燈代替。
 
 ## 7. 腳位分配與接線
-- 1.	LED
- -腳位與接線 : 
-  -GND*1
-  -GPIO2、GPIO3、GPIO4、GPIO17
+![image](https://user-images.githubusercontent.com/101661953/174478303-ee27a491-1300-4b6e-a844-0105dba1aaa3.png)
+
 
 
 
