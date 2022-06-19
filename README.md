@@ -17,6 +17,8 @@
 ![image](https://user-images.githubusercontent.com/101661953/174477900-26be856b-fab8-4412-a9a1-b1daeae1fccd.png)
 
 ## 5. 系統架構
+- OS : Raspberry Pi OS
+- 程式設計 : Python
 - 資料庫端：MySQL
 - 伺服器 : XAMPP、Apache
 - 智慧水族箱架構：
