@@ -13,14 +13,10 @@
 - 溫溼度感測器: 偵測水族館內(養殖之空間)溫度的變化
 - 超音波感測器: 偵測距離內是否有參觀者或不明物體靠近
 
-
-## 4. 應用情境架構圖
-![image](https://user-images.githubusercontent.com/101661953/174477868-0a7e4b41-97e6-45ba-8463-58ea850d617e.png)
-
-## 5. 應用情境示意圖
+## 4. 應用情境示意圖
 ![image](https://user-images.githubusercontent.com/101661953/174477900-26be856b-fab8-4412-a9a1-b1daeae1fccd.png)
 
-## 6. 系統架構
+## 5. 系統架構
 - 資料庫端：MySQL
 - 伺服器 : XAMPP、Apache
 - 智慧水族箱架構：
@@ -28,10 +24,10 @@
   *超音波感測器、
   *LED (紅*2、黃*1、綠*1 ) : 因為沒藍燈，以第二顆紅燈代替。
 
-## 7. 腳位分配與接線
+## 6. 腳位分配與接線
 ![image](https://user-images.githubusercontent.com/101661953/174478303-ee27a491-1300-4b6e-a844-0105dba1aaa3.png)
 
-## 8. 成品
+## 7. 成品
 ![image](https://user-images.githubusercontent.com/101661953/174478354-92f7f1d2-94ef-4687-b692-e5f2edf932c1.png)
 - 說明 : 
 #### 1.	右側為水族箱本體，用來養殖魚類(本次使用鯊魚模擬魚群)。
@@ -40,7 +36,7 @@
 #### 4.	左側為偵測狀況的Dashboard，有不同的LED燈用來表示不同的情境，以便水族箱管理員進行觀測、警示。註:由於沒有藍色LED燈、故我們使用紅燈來代替本次的藍燈。
 #### (如成品圖示 : 左1紅燈為距離感測警示燈，左2紅燈為溫度感測「生長停止」，左3黃燈為溫度感測「生長緩慢」，左4綠燈為溫度感測「最適生長溫度」)
 
-## 9. 實際偵測頁面
+## 8. 實際偵測頁面
 ![image](https://user-images.githubusercontent.com/101661953/174478456-81565eda-2dcc-4ff2-98ab-fee3932cc8a7.png)
 
 
